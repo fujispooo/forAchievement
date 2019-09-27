@@ -297,7 +297,7 @@ PLATFORMS
 DEPENDENCIES
   annotate
   bootsnap (>= 1.1.0)
-  bootstrap (~> 4.3.1)
+  bootstrap
   bullet
   byebug
   capistrano
@@ -321,8 +321,7 @@ DEPENDENCIES
   rails (~> 5.2.2, >= 5.2.2.1)
   rails-controller-testing
   rspec-rails
-  sass-rails (~> 5.0)
-  sassc-rails (= 2.1.2)
+  sass-rails
   selenium-webdriver
   spring
   spring-watcher-listen (~> 2.0.0)
